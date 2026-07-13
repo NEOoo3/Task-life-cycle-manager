@@ -1,9 +1,4 @@
-# AI Guidance — Rules Followed During Code Generation
-
-This document is for human evaluators. It explains the reasoning constraints applied
-while generating this codebase, so you can audit whether the output matches the intent.
-
----
+Guide
 
 ## 1. The State Machine is the single source of truth
 
